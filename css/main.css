@@ -6,6 +6,12 @@
       font-weight: normal;
       font-style: normal;
   }
+  timefont {
+      font-family: '20thcenturyfont';
+      src: url('../fonts/20thcenturyfont.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+  }
   
   .carousel-fade .carousel-inner .item {
       opacity: 0;
